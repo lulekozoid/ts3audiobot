@@ -1,0 +1,16 @@
+---|────────────| /* /* /* XaNeZ.pl - TS3AudioBot.sh v. 3.0. *\ *\ *\ |────────────|---
+
+ TS3AudioBot,
+	~~~~~~~~~
+	"apt-get install sudo && sudo apt-get install wget && sudo apt-get install unzip && cd /home && sudo wget http://xanez.pl/TS3AudioBot/TS3AudioBot.sh.zip && sudo unzip TS3AudioBot.sh.zip && sudo rm TS3AudioBot.sh.zip && chmod 0777 TS3AudioBot.sh && ./TS3AudioBot.sh".
+	~~~~~~~~~
+
+ Useful Recommendation,
+ 	* https://github.com/Splamy/TS3AudioBot/wiki/CommandSystem.
+
+ Contact,
+ 	* Author, XaNeZ.pl.
+ 	* FanPage, XaNeZ.pl/FanPage.php.
+ 	* TeamSpeak, FlameSpeak.pl.
+
+---|────────────| \* \* \* XaNeZ.pl - TS3AudioBot.sh v. 3.0. */ */ */ |────────────|---
